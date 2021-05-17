@@ -13,9 +13,9 @@
   "devDependencies": {
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
+    "husky": "^6.0.0",
     "semantic-release": "^17.4.2",
-    "semantic-release-codeartifact": "^1.0.1",
-    "husky": "^6.0.0"
+    "semantic-release-codeartifact": "^1.1.0"
   },
   "repository": {
     "type": "git",
